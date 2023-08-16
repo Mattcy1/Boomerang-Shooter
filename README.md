@@ -7,7 +7,7 @@
 
 <h1 align="center">Boomrang Shooter</h1>
 
-This mod adds the Boomrang Shooter
+This mod add the Boomrang Shooter
 
 <h1 aling="left"><img alt="GitHub all releases" height="25" src="https://img.shields.io/github/downloads/Mattcy1/Boomerang-Shooter/total?label=Total%20Dowloads"></h1>
 
