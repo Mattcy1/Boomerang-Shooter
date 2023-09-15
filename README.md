@@ -5,9 +5,9 @@
     <img align="right" alt="Download" height="75" src="https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/BloonsTD6%20Mod%20Helper/Resources/DownloadBtn.png">
 </a>
 
-<h1 align="center">Boomrang Shooter</h1>
+<h1 align="center">Boomerang Shooter</h1>
 
-This mod add the Boomrang Shooter
+This mod add the Boomerang Shooter
 
 <h1 aling="left"><img alt="GitHub all releases" height="25" src="https://img.shields.io/github/downloads/Mattcy1/Boomerang-Shooter/total?label=Total%20Dowloads"></h1>
 
